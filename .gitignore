@@ -1,0 +1,10 @@
+
+# venv
+application/venv
+
+# pycharm
+.idea
+
+# tmp
+*.pyc
+*/__pycache__/*
